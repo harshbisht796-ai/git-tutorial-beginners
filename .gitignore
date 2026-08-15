@@ -1,0 +1,11 @@
+db.sql
+passwords.txt
+
+# ignore multiple same file types like log, tmp, cache, etc
+*.log
+
+# this helps to ignore all log files except the important.log file
+!important.log
+
+# ignore the whole directory
+node_modules/
