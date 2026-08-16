@@ -9,3 +9,4 @@ passwords.txt
 
 # ignore the whole directory
 node_modules/
+about.html
